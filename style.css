@@ -3,8 +3,8 @@
         padding:0;
     }
 .cabecalho {
-    background-color: #FDA403;
-    color: white;
+    background-color: #FDA3;
+    color: black;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -22,12 +22,12 @@
   font-size: 24px;
 }
 .escola-imagem{
-    width: 30%;
+    width: 150%;
 }
 
 .escola{
-    background-image: linear-gradient(#FDA403,#E8751A);
-    color: white;
+    background-image: linear-gradient(#FDF5EEE6,#FFF8E3);
+    color: black;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -35,11 +35,17 @@
 }
 
 *escola-div-conteudo {
-    width: 35%;
+    width: 20%;
 }
  
 .escola-titulo {
 
     padding: 24px 0;
+
+ }
+
+ .aluno1  {
+    width: 120px;
+
 
  }
